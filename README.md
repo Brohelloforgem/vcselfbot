@@ -1,6 +1,4 @@
 ```markdown
-<div align="center">
-
 # 🎵 Discord Voice Channel Selfbot
 
 *Stay connected to your favorite Discord voice channels 24/7*
