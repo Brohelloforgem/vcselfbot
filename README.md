@@ -16,7 +16,10 @@ Maintains 24/7 connection to a Discord voice channel on Android (Termux).
 
 2. **Configure the bot**
     - Clone this repo
-      ```git clone 
+      ```git clone https://github.com/Brohelloforgem/vcselfbot.git```
+   - Setup
+      ```cd vcselfbot```
+      ```nano vc_selfbot.py```
     - Edit these variables:
       ```
       USER_TOKEN = "your_discord_token"
