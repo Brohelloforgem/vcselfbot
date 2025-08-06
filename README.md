@@ -160,13 +160,13 @@ grep "ERROR\|4006" selfbot.log | tail -5     # ⚠️  Recent errors
 
 ## 🔧 Troubleshooting
 
-| Problem | Solution |
-|---------|----------|
-| 🚫 `IndentationError` | Use consistent 4-space indentation |
-| 🔧 `PyNaCl failed` | Run: `pkg install clang make libsodium` |
-| ⚡ `4006 errors` | Bot handles automatically with backoff |
-| 🔄 `Keeps disconnecting` | Check WiFi stability |
-| 🚀 `Won't start on boot` | Install Termux:Boot app |
+|       Problem            | Solution.                               |
+|--------------------------|-----------------------------------------|
+| 🚫 `IndentationError`    | Use consistent 4-space indentation.     |
+| 🔧 `PyNaCl failed`.      | Run: `pkg install clang make libsodium` |
+| ⚡ `4006 errors`         | Bot handles automatically with backoff  |
+| 🔄 `Keeps disconnecting` | Check WiFi stability                    |
+| 🚀 `Won't start on boot` | Install Termux:Boot app                 |
 
 ### 📊 Healthy vs Warning Signs
 
@@ -219,15 +219,3 @@ Made with ❤️ by Gem for learning automation concepts
 
 </div>
 ```
-
-This README includes:
-- 🎨 Beautiful visual design with badges and emojis
-- 📱 Mobile-friendly formatting
-- 🔧 Complete setup instructions
-- 🚀 One-line installation commands
-- 📊 Monitoring and troubleshooting sections
-- ⚖️ Clear legal disclaimers
-- 🎯 Organized with collapsible sections
-
-Copy and paste this directly into your GitHub repository!
-
